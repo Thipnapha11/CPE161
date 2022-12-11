@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-maim()
+main()
 {
 	printf("HELLO WORLD");
 	printf("HELLO console");
